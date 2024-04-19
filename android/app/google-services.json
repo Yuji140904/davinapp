@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624402829750",
+    "project_id": "davinapp-add89",
+    "storage_bucket": "davinapp-add89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624402829750:android:b54d7643d4e9b9f6eff117",
+        "android_client_info": {
+          "package_name": "com.example.davin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQFxDD-ICjwIxDZybS87e7YY0PWSLVThI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
